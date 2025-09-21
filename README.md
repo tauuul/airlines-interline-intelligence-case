@@ -33,4 +33,5 @@ Este projeto estratégico focou na transformação digital do processo de análi
 ---
 
 **Disclaimer:** Este caso de estudo é uma representação genérica para fins de portfólio. Dados confidenciais, nomes de empresas e informações sensíveis foram alterados ou omitidos.
-📌 *Leia este caso de estudo em Português (versão completa): [README em Português](README.md)*
+---
+📌 *Read this case study in English: [README in English](README_EN.md)*
